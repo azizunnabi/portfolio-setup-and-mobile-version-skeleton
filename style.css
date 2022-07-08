@@ -1,16 +1,17 @@
 .header-background {
-  
   position: absolute;
   width: 475px;
   height: 916px;
   left: 0;
 
-  /*top: 1px;
+  /* top: 1px;
 
   /* Neutrals/N0 */
 
   background-color: #fff;
-
+}
+.imelex{
+  margin-top:100px;
 }
 .m-logo {
   padding-top: 10px;
@@ -21,7 +22,7 @@
 
   /* stylelint-disable-next-line font-family-no-missing-generic-family-keyword */
 
-  font-family: "Puffin";
+  font-family: Arial, sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
@@ -42,35 +43,33 @@
   flex: none;
   order: 0;
   flex-grow: 0;
-
 }
+
 a.inline {
   width: bold;
   padding-left: 20px;
   text-decoration: none;
   list-style-type: none;
-  padding-right: 0px;
+  padding-right: 0;
   float: right;
   color: #6070ff;
-
 }
+
 .link-right {
   margin-top: -30px;
   text-decoration: none;
   list-style-type: none;
   float: right;
-
 }
+
 .section1 {
   width: 375px;
   padding-top: 10px;
   display: inline;
   padding-right: 60px;
-  width: 0;
-
 }
-.section2 {
 
+.section2 {
   padding-left: 10px;
   width: 920px;
   height: 122px;
@@ -80,12 +79,11 @@ a.inline {
 /* Header / 1 */
 
 .h2 {
-
   float: center;
 
   /* stylelint-disable-next-line font-family-no-missing-generic-family-keyword */
 
-  font-family: 'Poppins';
+  font-family: Arial, sans-serif;
   font-style: normal;
   font-weight: 700px;
   font-size: 48px;
@@ -107,10 +105,24 @@ a.inline {
   order: 0;
   flex-grow: 0;
 }
+
 .imalex {
   width: 375px;
   padding-left: 0;
 }
+.addnn{
+  float:left;
+  display: inline;
+  list-style-type:none;
+  margin-left: -35px;
+  
+
+}
+.ad{
+  display: inline;
+  margin-right: 6px;
+}
+
 .sec4h4 {
   width: 375px;
   height: 146px;
@@ -136,6 +148,7 @@ a.inline {
   order: 1;
   flex-grow: 0;
 }
+
 .nav {
   width: 375px;
 }
@@ -146,38 +159,46 @@ a.inline {
 
 h2 {
   width: 375px;
-  padding-left: 0px;
+  padding-left: 0;
 }
+
 .section4h4 {
   margin-top: -80px;
 }
+
 .sec2image {
   padding-right: 40px;
   padding-top: 25px;
   margin-top: -30px;
 }
+
 h5 {
   color: #6070ff;
   margin-top: -20px;
 }
+
 .image6 {
   padding-left: 10px;
   width: 30px;
 }
+
 .ets {
   color: #6070ff;
-  margin-top: -65px;
+  margin-top: -80px;
   padding-top: 25px;
 }
+
 .image3 {
   padding-left: 50px;
   width: 80px;
   margin-top: 40px;
 }
+
 .image7 {
   padding-left: 50px;
   width: 30px;
 }
+
 .image5 {
   padding-left: 50px;
   width: 30px;
