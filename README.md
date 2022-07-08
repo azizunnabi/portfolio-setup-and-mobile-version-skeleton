@@ -1,15 +1,16 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
-Portfolio mobile version project
+Portfolio mobile version skeleton
 
 > Description the project.
-This is simple web project that includes all my portfolio related details and social media details
+This is simple web project that includes all my portfolio related details and social media info details.
 
 
 ## Built With
 
-- Major languages
+- Major languages are following
+
 - Html
 - Frameworks
 - Flex box, Css grids
