@@ -20,7 +20,7 @@
 
   /* stylelint-disable-next-line font-family-no-missing-generic-family-keyword */
 
-  font-family: "Poppins";
+  font-family: Arial, sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
@@ -81,7 +81,7 @@ a.inline {
 
   /* stylelint-disable-next-line font-family-no-missing-generic-family-keyword */
 
-  font-family: 'Poppins';
+  font-family: Arial, sans-serif;
   font-style: normal;
   font-weight: 700px;
   font-size: 48px;
